@@ -16,4 +16,4 @@ age:18
 2007.6.16
 zhuhai
 mpu student
-major:ai
+
