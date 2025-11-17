@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: "1"
 venue: "mpu"
-date: 2025
+date: "2025"
 location: "macau"
 ---
 
