@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: 
+permalink: "1"
 venue: "mpu"
 date: 2025
 location: "maocau"
