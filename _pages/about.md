@@ -11,6 +11,6 @@ Thanks for visiting my website
 
 yuzhuosheng'personal website
 ======
-YUZHUOSHENG age:18 mpu student major:ai
+YUZHUOSHENG 
 
 
